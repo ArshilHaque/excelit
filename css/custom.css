@@ -66,8 +66,9 @@ html, body {width: auto!important;overflow-x: hidden!important;}
 
 .black-bg{
   background-color: #262626;
-  height: 54em;
-  margin-top: 60px;
+  padding-top: 12px;
+    padding-bottom: 90px;
+        margin-top: 60px;
 }
 
 .logo2{
@@ -94,12 +95,6 @@ html, body {width: auto!important;overflow-x: hidden!important;}
 .textlist ul li p{
   display: inline-block;
 }
-
-.Listtext .heightline {
-    list-style: none;
-    line-height: 5px;
-}
-
 
 .Listtext li {
     list-style: none;
@@ -159,9 +154,20 @@ html, body {width: auto!important;overflow-x: hidden!important;}
 
 h3 {
     color: #0fc763;
-    font-weight: 500;
+    font-weight: bold;
     font-size: 25px;
+    letter-spacing: 1px;
   }
+
+/*.Listtext .heightline {
+    list-style: none;
+    line-height: 5px;
+}*/
+
+.middlelogo{
+  text-align: right;
+}
+
 
 
 
@@ -246,6 +252,7 @@ sub {
 .price p{
     color: #4e4e4e;
     font-weight: 600;
+    font-size: 13px;
 }
 
 .price h4{
@@ -257,4 +264,8 @@ sub {
 .pricing-bg{
   background-color: #04a94f;
   padding: 20px 0px;
+}
+
+.price .pricing-price sub{
+
 }
