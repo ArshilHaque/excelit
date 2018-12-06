@@ -2,7 +2,7 @@
   font-family: 'Roboto', sans-serif;
 }
 
-html, body {width: auto!important; overflow-x: hidden!important} 
+html, body {width: auto!important;overflow-x: hidden!important;} 
 
 .bg-img{
     height: 30em;
@@ -252,4 +252,9 @@ sub {
     font-weight: 600;
     color: #484848;
     padding-top: 15px;
+}
+
+.pricing-bg{
+  background-color: #04a94f;
+  padding: 20px 0px;
 }
