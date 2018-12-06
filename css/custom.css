@@ -174,10 +174,10 @@ h3 {
 .panel {
   background-color: #fff;
   border-radius: 10px;
-  padding: 25px 25px;
+  padding: 25px 95px;
   padding-bottom: 90px;
   position: relative;
-  width: 50%;
+  width: 40%;
   z-index: 10;
 }
 
