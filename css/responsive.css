@@ -1,0 +1,40 @@
+
+
+/*@media screen and (min-width: 500px) and (max-width: 1000px;) {}
+  .bg-img {
+    height: 25em;
+  }
+}*/
+
+
+
+@media screen and (max-width: 770px) {
+  .features{
+    text-align: center;
+  }
+}
+
+
+@media screen and (max-width: 770px) {
+  .middlelogo{
+      text-align: center;
+  }
+}
+
+
+@media screen and (max-width: 770px) {
+
+  .bg-img {
+    height: 20em;
+  }
+
+  .logo2 img {
+
+    width: 80%;
+}
+
+.panel {
+    padding: 25px 40px;
+    width: 100%;
+}
+}
