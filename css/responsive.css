@@ -34,7 +34,7 @@
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1350px) {
 
 .panel {
     padding: 25px 40px;
@@ -48,3 +48,22 @@
 }
 
 }
+
+@media screen and (max-width: 1180px) {
+  .indentr{
+    margin-left: 10px;
+  }
+
+  p .indent{
+    margin-left: 0px;
+  }
+
+}
+
+
+/*@media screen and (max-width: 991px) {
+    .textlist p{
+    text-indent: -10px;
+  }
+
+}*/
