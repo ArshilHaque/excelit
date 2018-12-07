@@ -191,7 +191,7 @@ p .indent{
 .panel {
   background-color: #fff;
   /* border-radius: 10px; */
-  padding: 25px 95px;
+  padding: 0px 95px;
   padding-bottom: 90px;
   position: relative;
   width: 50%;
