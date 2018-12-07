@@ -98,7 +98,6 @@ html, body {width: auto!important;overflow-x: hidden!important;}
 
 .Listtext li {
     list-style: none;
-    line-height: 35px;
 }
 
 
@@ -159,12 +158,19 @@ h3 {
     letter-spacing: 1px;
   }
 
+/*.Listtext .heightline {
+    list-style: none;
+    line-height: 5px;
+}*/
 
 .middlelogo{
   text-align: right;
 }
 
 
+.heightline{
+  line-height: 65%;
+}
 
 
   --------------------------------------------------------------
@@ -175,12 +181,15 @@ h3 {
 }
 .panel {
   background-color: #fff;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   padding: 25px 95px;
   padding-bottom: 90px;
   position: relative;
   width: 40%;
   z-index: 10;
+  /* padding: 25px 40px; */
+  outline: 5px solid white;
+  border: 7px solid #03c15a;
 }
 
 .pricing-table {
