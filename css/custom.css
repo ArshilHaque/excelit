@@ -267,7 +267,8 @@ sub {
 }
 
 .pricing-bg{
-  background-color: #04a94f;
+  /*background-color: #04a94f;*/
+  background-color: #ffffff;
   padding: 20px 0px;
 }
 
