@@ -29,12 +29,22 @@
   }
 
   .logo2 img {
-
     width: 80%;
 }
+}
+
+
+@media screen and (max-width: 1200px) {
 
 .panel {
     padding: 25px 40px;
     width: 100%;
 }
+}
+
+@media screen and (max-width: 1000px) {
+  .heightline{
+  line-height: 100%;
+}
+
 }
