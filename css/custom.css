@@ -283,3 +283,13 @@ sub {
 .price .pricing-price sub{
 
 }
+
+.terms a{
+  color: grey;
+  text-decoration: none;
+}
+
+.privacy a{
+  text-decoration: none;
+  color: grey;
+}
